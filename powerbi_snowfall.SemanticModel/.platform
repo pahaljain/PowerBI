@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "powerbi_snowfall"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e985e7a1-f94e-4a0a-ac87-334ec54dcfe5"
+  }
+}
